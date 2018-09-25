@@ -1,0 +1,48 @@
+Problem 
+- Not knowing whether something will fit well when shopping online as sizing varies amongst companies
+- We are busy people, we shouldn't have to spend so much time to find something that fits and doesn't want to return
+
+Persona questions
+- how do people sovle this problem now
+- websites without return policy
+- different gender, age group, income
+
+Goals
+- crowd sourced information based on dimensions (uploaded anonymously)
+- allows the matching of 
+
+Solutions
+- 
+
+P1
+- male
+- 17 years
+- highschool senior
+- no income
+- night owl
+- wakes up late, rushes to bus stop after grabbing a quick breakfast (ignores all news/phone)
+- lunch break, talks with friends (grad
+- sporty (busy with practice)
+- preparing for grad pictures/events
+- target (formal + sporty)
+P2
+- female
+- 18 - 25 years
+- single
+- occupation - university student
+- low income (part-time job/co-op job)
+- paying off debts
+- design arts student (creativity/fashion)
+- instagrammer
+- target (nice, hip, simple)
+P3
+- Dad
+- adult
+- married
+- one child
+- 25 - 35 years
+- 70k yearly income
+- occasionally works at home normally at office
+- business
+- masters degree
+- target (w/e on sale, comfort, semi-formal)
