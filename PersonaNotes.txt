@@ -11,8 +11,6 @@ Goals
 - crowd sourced information based on dimensions (uploaded anonymously)
 - allows the matching of 
 
-Solutions
-- 
 
 P1
 - male
